@@ -14,7 +14,7 @@
        <image src="{{a1src}}"></image>
        </view>
        <text class="plate-info">
-        44周计划
+        66周计划
        </text>
   </navigator>
   <navigator url="/pages/signup/signup" open-type="switchTab" hover-class="other-navigator-hover" class="plate-item">
