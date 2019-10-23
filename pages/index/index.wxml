@@ -107,7 +107,7 @@
         <image src="{{imgsrc}}" class="mod-image"></image>
       </view>
       <view class="mod-title">
-         <text>标题标题标题标题标题</text>  
+         <text>标题(spring)</text>  
       </view>
       <view class="mod-info">
         <view class="mod-icon">
