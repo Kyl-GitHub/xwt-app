@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/login/login",
     "pages/index/index",
     "pages/signup/signup",
     "pages/action/action",
@@ -12,7 +13,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#4ec4c8",
-    "navigationBarTitleText": "绩效考核",
+    "navigationBarTitleText": "登录",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
