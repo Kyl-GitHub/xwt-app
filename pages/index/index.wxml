@@ -14,7 +14,7 @@
        <image src="{{a1src}}"></image>
        </view>
        <text class="plate-info">
-        44周计划
+        46周计划
        </text>
   </navigator>
   <navigator url="/pages/signup/signup" open-type="switchTab" hover-class="other-navigator-hover" class="plate-item">
@@ -22,7 +22,7 @@
        <image src="{{a2src}}"></image>
        </view>
        <text class="plate-info">
-        43周执行
+        45周执行
        </text>
   </navigator>
   <navigator url="/pages/teacher/teacher" hover-class="navigator-hover" class="plate-item">
