@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+page{
+  height: 100%;
+}
+.loginbg{
+  position:fixed;
+  z-index: -1;
+}

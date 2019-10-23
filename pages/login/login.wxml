@@ -1,0 +1,6 @@
+<view class="container">
+    <view class="loginbg"><image src="../../image/logobg.jpg" mode='widthFix'></image></view>
+    <navigator class="more" url="/pages/index/index" open-type="switchTab" hover-class="other-navigator-hover">
+        <view class="more-info">点我</view>
+    </navigator>
+</view>

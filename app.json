@@ -12,8 +12,8 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#4ec4c8",
-    "navigationBarTitleText": "登123222录",
+    "navigationBarBackgroundColor": "#4d80ff",
+    "navigationBarTitleText": "登录",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
